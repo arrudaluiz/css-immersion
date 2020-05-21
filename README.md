@@ -46,7 +46,7 @@
 
 [Guia Flexbox - Origamid (portuguese)](https://origamid.com/projetos/flexbox-guia-completo/)
 
-[FlexBox guide - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+[Flexbox guide - CSS-Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [Flexbox Froggy (game)](https://flexboxfroggy.com/)
 
@@ -104,6 +104,8 @@
 
 ### Accessibility
 
+[Novos elementos semânticos no HTML5 (portuguese)](https://diveintohtml5.com.br/semantics.html#new-elements)
+
 [O impacto das cores - Medium (portuguese)](https://brasil.uxdesign.cc/acessibilidade-o-impacto-das-cores-bfc0d60420db)
 
 [Cores e Acessibilidade - Chief of Design (portuguese)](https://www.chiefofdesign.com.br/cores-e-acessibilidade/)
@@ -130,7 +132,9 @@
 
 [Font Awesome](https://fontawesome.com/)
 
-[Material Design - Icons](https://material.io/resources/icons/)
+[Materialize - Material Design icons](https://materializecss.com/icons.html)
+
+[Material Design's icon design principles](https://material.io/design/iconography/system-icons.html#design-principles)
 
 [Can I use](https://caniuse.com/)
 
@@ -155,8 +159,6 @@
 [CSS clip-path maker](https://bennettfeely.com/clippy/)
 
 ## Other stuffs
-
-[Novos elementos semânticos no HTML5 (portuguese)](https://diveintohtml5.com.br/semantics.html#new-elements)
 
 [Turing completude (portuguese)](https://pt.wikipedia.org/wiki/Turing_completude)
 
