@@ -18,9 +18,9 @@
   - [Images](#images)
 - [Other stuffs](#other-stuffs)
 - [Beyond the basics](#beyond-the-basics)
-  - [MDN Web Docs - HTML, CSS and JavaScript](#mdn-web-docs---html,-css-and-javascript-documentation-tutorials,-and-references)
+  - [MDN Web Docs - HTML, CSS and JavaScript](#mdn-web-docs---html-css-and-javascript-documentation-tutorials-and-references)
     - [*Portuguese* documentation, tutorials, and references](#portuguese)
-    - [*English* documentation, tutorials, and references (recommended)](#english-(recommended))
+    - [*English* documentation, tutorials, and references (recommended)](#english-recommended)
   - [Frontend Developer Roadmap](#frontend-developer-roadmap)
 - [Considerations](#considerations)
 
