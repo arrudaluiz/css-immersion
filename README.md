@@ -17,6 +17,12 @@
   - [Icons](#icons)
   - [Images](#images)
 - [Other stuffs](#other-stuffs)
+- [Beyond the basics](#beyond-the-basics)
+  - [MDN Web Docs - HTML, CSS and JavaScript](#mdn-web-docs---html,-css-and-javascript-documentation-tutorials,-and-references)
+    - [*Portuguese* documentation, tutorials, and references](#portuguese)
+    - [*English* documentation, tutorials, and references (recommended)](#english-(recommended))
+  - [Frontend Developer Roadmap](#frontend-developer-roadmap)
+- [Considerations](#considerations)
 
 ## Knoledge
 
@@ -112,6 +118,8 @@
 
 ## Tools and useful websites
 
+[Can I use](https://caniuse.com/)
+
 ### Color
 
 [HTML Color Codes - Color names](https://htmlcolorcodes.com/color-names/)
@@ -135,8 +143,6 @@
 [Materialize - Material Design icons](https://materializecss.com/icons.html)
 
 [Material Design's icon design principles](https://material.io/design/iconography/system-icons.html#design-principles)
-
-[Can I use](https://caniuse.com/)
 
 ### Images
 
@@ -167,3 +173,46 @@
 [Rainbow gradient background animation](https://codepen.io/nohoid/pen/kIfto)
 
 [Metatags - Google (portuguese)](https://support.google.com/webmasters/answer/79812?hl=pt-BR)
+
+## Beyond the Basics
+
+### MDN Web Docs - HTML, CSS and JavaScript documentation, tutorials, and references
+
+#### Portuguese
+
+[HTML: Linguagem de Marcação de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+
+[CSS: Folhas de Estilo em Cascata](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+
+[JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+[Gráficos na Web (canvas, SVG, WebGL, WebRTC)](https://developer.mozilla.org/pt-BR/docs/Web/Guide/Gr%C3%A1ficos)
+
+[HTTP: Protocolo de Transferência de Hipertexto](https://developer.mozilla.org/pt-BR/docs/Web/HTTP)
+
+#### English (recommended)
+
+[HTML: Hypertext Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+
+[CSS: Cascading Style Sheets](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[Graphics on the Web (canvas, SVG, WebGL, WebRTC)](https://developer.mozilla.org/en-US/docs/Web/Guide/Graphics)
+
+[HTTP: Hypertext Transfer Protocol](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+### Frontend Developer Roadmap
+
+#### Step by step guide to becoming a modern frontend developer, suggested by [Kamran Ahmed]
+
+This roadmap cover everything that is there to learn. **Don't feel overwhelmed**, you don't need to learn it all in the beginning if you are just getting started.
+
+[roadmap.sh/frontend](https://roadmap.sh/frontend)
+
+[Kamran Ahmed]: https://roadmap.sh/about
+
+## Considerations
+
+This link compilation first was created to self use and then restructured to help beginner developers. I hope this be useful to you.
+Feel free to contribute and please star my repository if you liked it.
